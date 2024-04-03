@@ -1,8 +1,7 @@
-#incluse<stdio.h>
+#include <stdio.h>
 int main()
 {
 	int a, b, sum; /* Variables Declaration */
-	clrscr(); /* Clears the screen */
 	printf("Enter the value of a: ");
 	scanf("%d", &a); /* Reading First Number */
 	printf("Enter the value of b: ");
